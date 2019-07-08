@@ -1,0 +1,41 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "id": null,
+    "contractRooms": [
+      {
+        "floorName": "12",
+        "roomName": "1208",
+        "area": 200
+      }
+    ],
+    "totalArea": null,
+    "customer": {
+      "id": null,
+      "lessee": "壹家易网络有限公司",
+      "industry": "金融",
+      "legalPerson": "XXX",
+      "signer": "SSS",
+      "contactName": "WWW",
+      "contactPhone": "18079007121"
+    },
+    "contractNO": "XXXXXXXXXX",
+    "depositNumber": 1,
+    "payNumber": 3,
+    "depositAmt": 6000,
+    "signingDate": 1562501461818,
+    "singlePrice": 1.56,
+    "beginSignDate": 1562501461818,
+    "endSignDate": 1562501461818,
+    "attachFiles": [
+      {
+        "name": "xxx.docx",
+        "url": "url",
+        "uploadTime": "2019-07-07",
+        "contractId": 1,
+        "visitorId": null
+      }
+    ]
+  }
+}

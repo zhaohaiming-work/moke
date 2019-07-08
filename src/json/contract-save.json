@@ -1,0 +1,41 @@
+{
+  "projectId": 1,
+  "contractRooms": [
+    {
+      "floorId": 1,
+      "roomId": 1
+    },
+    {
+      "floorId": 1,
+      "roomId": 2
+    }
+  ],
+  "customer": {
+    "lessee": "IPay",
+    "industry": "金融",
+    "legalPerson": "ganser",
+    "signer": "midy",
+    "contactName": "midy",
+    "contactPhone": "13178562389"
+  },
+  "contract": {
+    "contractNO": "eju1028737",
+    "depositNumber": 3,
+    "payNumber": 3,
+    "depositAmt": "66666",
+    "signingDate": "2019-07-07",
+    "singlePrice": "22222",
+    "beginSignDate": "2019-07-07",
+    "endSignDate": "2022-07-07"
+  },
+  "attachFiles": [
+    {
+      "name": "附件1.docx",
+      "url": "url1"
+    },
+    {
+      "name": "附件2.docx",
+      "url": "url2"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "dataList": [
+      {
+        "dateMonth": "2019-07",
+        "count": 7
+      },
+      {
+        "dateMonth": "2019-08",
+        "count": 8
+      },
+      {
+        "dateMonth": "2019-09",
+        "count": 9
+      },
+      {
+        "dateMonth": "2019-10",
+        "count": 10
+      },
+      {
+        "dateMonth": "2019-11",
+        "count": 11
+      },
+      {
+        "dateMonth": "2019-12",
+        "count": 12
+      },
+      {
+        "dateMonth": "2020-01",
+        "count": 1
+      },
+      {
+        "dateMonth": "2020-02",
+        "count": 2
+      },
+      {
+        "dateMonth": "2020-03",
+        "count": 3
+      }
+    ]
+  }
+}
