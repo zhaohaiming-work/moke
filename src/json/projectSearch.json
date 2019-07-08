@@ -1,0 +1,26 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "assetProjectId": 7,
+    "assetProjectName": "徐天测试项目06－园区",
+    "totalBuildArea": "1540000",
+    "initCost": "128000.00",
+    "assetLevel": "1001",
+    "assetLevelName": "甲级",
+    "businessType": "PARK",
+    "businessTypeName": "园区",
+    "projectId": 16,
+    "rentableArea": "68000",
+    "periodList": [
+      {
+        "period": "2018-09",
+        "periodStr": "2018年09月"
+      },
+      {
+        "period": "2018-08",
+        "periodStr": "2018年08月"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_1_QSBH",
+    "name": "趋势变化",
+    "style": 2,
+    "url": null,
+    "data": [
+      {
+        "name": "利润",
+        "tag": null,
+        "generalSheets": [],
+        "sixMonthSheets": [
+          {
+            "name": "GOP",
+            "code": "HOTEL_LR_GOP",
+            "unitName": "元",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "8000000"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "8100000"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "8100040"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "7100000"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "GOP率",
+            "code": "HOTEL_LR_GOP",
+            "unitName": "%",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "20"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "10"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "40"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "60"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "30"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "EBITDA",
+            "code": "HOTEL_LR_EBITDA",
+            "unitName": "元",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "1034471.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "EBITDA Margin",
+            "code": "HOTEL_LR_EBITDA_MARGIN",
+            "unitName": "%",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0.8420"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "收入",
+        "tag": null,
+        "generalSheets": [],
+        "sixMonthSheets": [
+          {
+            "name": "经营收入",
+            "code": "HOTEL_JYSR",
+            "unitName": "元",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "1243545.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "1273545"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "1373545"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "1273945"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "1173545"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "273545"
+              }
+            ]
+          },
+          {
+            "name": "增长率",
+            "code": "HOTEL_JYSR",
+            "unitName": "%",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "成本",
+        "tag": null,
+        "generalSheets": [],
+        "sixMonthSheets": [
+          {
+            "name": "经营成本",
+            "code": "HOTEL_JYCB",
+            "unitName": "元",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "220575.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "增长率",
+            "code": "HOTEL_JYCB",
+            "unitName": "%",
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

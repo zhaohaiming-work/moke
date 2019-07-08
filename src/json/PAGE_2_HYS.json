@@ -1,0 +1,76 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_2_HYS",
+    "name": "会员数",
+    "style": 4,
+    "url": null,
+    "data": [
+      {
+        "name": "会员数",
+        "code": "HOTEL_QT_HYZS",
+        "unitName": "人",
+        "tag": null,
+        "monthItems": [
+          {
+            "yearMonth": "2019-11",
+            "value": "110000000"
+          },
+          {
+            "yearMonth": "2019-10",
+            "value": "110300000"
+          },
+          {
+            "yearMonth": "2019-9",
+            "value": "100000000"
+          },
+          {
+            "yearMonth": "2019-8",
+            "value": "0"
+          },
+          {
+            "yearMonth": "2019-7",
+            "value": "110070000"
+          },
+          {
+            "yearMonth": "2019-6",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "name": "增长率",
+        "code": "HOTEL_QT_HYZS",
+        "unitName": "%",
+        "tag": null,
+        "monthItems": [
+          {
+            "yearMonth": "2019-11",
+            "value": "12"
+          },
+          {
+            "yearMonth": "2019-10",
+            "value": "56"
+          },
+          {
+            "yearMonth": "2019-9",
+            "value": "33"
+          },
+          {
+            "yearMonth": "2019-8",
+            "value": "77"
+          },
+          {
+            "yearMonth": "2019-7",
+            "value": "0"
+          },
+          {
+            "yearMonth": "2019-6",
+            "value": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_1_ZGLD",
+    "name": "资管雷达",
+    "style": 1,
+    "url": null,
+    "data": [
+      {
+        "name": "投资回报率",
+        "code": "assetProject.roi",
+        "unitName": "%",
+        "value": "100",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "EBITDA Margin",
+        "code": "HOTEL_LR_EBITDA_MARGIN",
+        "unitName": "%",
+        "value": "0.8420",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "GOP",
+        "code": "HOTEL_LR_GOP",
+        "unitName": "元",
+        "value": "5.64",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "RevPAR",
+        "code": "HOTEL_ZJQK_RevPAR",
+        "unitName": "元",
+        "value": "264.00",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "平均房价",
+        "code": "HOTEL_ZJQK_PJFJ",
+        "unitName": "元/间",
+        "value": "293.82",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "入住率",
+        "code": "HOTEL_ZJQK_LZL",
+        "unitName": "%",
+        "value": "0.8985",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": [
+      {
+          "assetProjectId": 401,
+          "assetProjectName": "福州仓山凯悦酒店（新）",
+          "cityName": "福州",
+          "regionName": "仓山区",
+          "operatingArea": "226间房",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 301,
+          "assetProjectName": "福州仓山凯悦酒店-改名测试",
+          "cityName": "福州",
+          "regionName": "仓山区",
+          "operatingArea": "226间房",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 302,
+          "assetProjectName": "厦门海沧融信华邑酒店",
+          "cityName": "厦门",
+          "regionName": "海沧区",
+          "operatingArea": "298间房",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 303,
+          "assetProjectName": "世欧广场11",
+          "cityName": "福州",
+          "regionName": "晋安区",
+          "operatingArea": "100000㎡",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 305,
+          "assetProjectName": "如家快捷酒店广中路店",
+          "cityName": "上海",
+          "regionName": "静安区",
+          "operatingArea": "226间房",
+          "lastChainMonth": "2018-10",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 307,
+          "assetProjectName": "如家酒店（测试）",
+          "cityName": "上海",
+          "regionName": "静安区",
+          "operatingArea": "226间房",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      },
+      {
+          "assetProjectId": 308,
+          "assetProjectName": "世欧购物商场（测试）",
+          "cityName": "福州",
+          "regionName": "晋安区",
+          "operatingArea": "100000㎡",
+          "lastChainMonth": "2018-09",
+          "chainStatus": true,
+          "stickStatus": false,
+          "lastReportDate": "2019-01",
+          "reportStatus": true
+      }
+  ]
+}

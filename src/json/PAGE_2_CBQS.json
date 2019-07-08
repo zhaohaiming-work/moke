@@ -1,0 +1,502 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_2_CBQS",
+    "name": "成本趋势",
+    "style": 3,
+    "url": null,
+    "data": [
+      {
+        "name": "经营成本",
+        "code": "HOTEL_JYCB",
+        "data": [
+          {
+            "name": "经营成本",
+            "code": "HOTEL_JYCB",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "220575.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "经营成本-变化率",
+            "code": "HOTEL_JYCB",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "220575.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "客房成本及费用",
+        "code": "HOTEL_JYCB_KFCBJFY",
+        "data": [
+          {
+            "name": "客房成本及费用",
+            "code": "HOTEL_JYCB_KFCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "43694.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "客房成本及费用-变化率",
+            "code": "HOTEL_JYCB_KFCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "43694.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "餐饮成本及费用",
+        "code": "HOTEL_JYCB_CYCBJFY",
+        "data": [
+          {
+            "name": "餐饮成本及费用",
+            "code": "HOTEL_JYCB_CYCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "7969.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "餐饮成本及费用-变化率",
+            "code": "HOTEL_JYCB_CYCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "7969.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "其他运营部门成本及费用",
+        "code": "HOTEL_JYCB_QTYYBMCBJFY",
+        "data": [
+          {
+            "name": "其他运营部门成本及费用",
+            "code": "HOTEL_JYCB_QTYYBMCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "其他运营部门成本及费用-变化率",
+            "code": "HOTEL_JYCB_QTYYBMCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "能耗费用",
+        "code": "HOTEL_JYCB_NHFY",
+        "data": [
+          {
+            "name": "能耗费用",
+            "code": "HOTEL_JYCB_NHFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "54524.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "能耗费用-变化率",
+            "code": "HOTEL_JYCB_NHFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "54524.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "维修费用",
+        "code": "HOTEL_JYCB_WXFY",
+        "data": [
+          {
+            "name": "维修费用",
+            "code": "HOTEL_JYCB_WXFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "29932.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "维修费用-变化率",
+            "code": "HOTEL_JYCB_WXFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "29932.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "其他成本及费用",
+        "code": "HOTEL_JYCB_QTCBJFY",
+        "data": [
+          {
+            "name": "其他成本及费用",
+            "code": "HOTEL_JYCB_QTCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "84456.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "其他成本及费用-变化率",
+            "code": "HOTEL_JYCB_QTCBJFY",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "84456.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

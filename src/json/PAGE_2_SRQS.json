@@ -1,0 +1,522 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_2_SRQS",
+    "name": "收入趋势",
+    "style": 3,
+    "url": null,
+    "data": [
+      {
+        "name": "经营收入",
+        "code": "HOTEL_JYSR",
+        "data": [
+          {
+            "name": "经营收入",
+            "code": "HOTEL_JYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "1243545.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "经营收入-增长率",
+            "code": "HOTEL_JYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "经营收入-去年同比",
+            "code": "HOTEL_JYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "客房直销收入",
+        "code": "HOTEL_JYSR_KFSR_ZXSR",
+        "data": [
+          {
+            "name": "客房直销收入",
+            "code": "HOTEL_JYSR_KFSR_ZXSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "863052.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "客房直销收入-增长率",
+            "code": "HOTEL_JYSR_KFSR_ZXSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "客房直销收入-去年同比",
+            "code": "HOTEL_JYSR_KFSR_ZXSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "客房OTA收入",
+        "code": "HOTEL_JYSR_KFSR_OTASR",
+        "data": [
+          {
+            "name": "客房OTA收入",
+            "code": "HOTEL_JYSR_KFSR_OTASR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "369880.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "客房OTA收入-增长率",
+            "code": "HOTEL_JYSR_KFSR_OTASR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "客房OTA收入-去年同比",
+            "code": "HOTEL_JYSR_KFSR_OTASR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "餐饮收入",
+        "code": "HOTEL_JYSR_CYSR",
+        "data": [
+          {
+            "name": "餐饮收入",
+            "code": "HOTEL_JYSR_CYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "10613.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "餐饮收入-增长率",
+            "code": "HOTEL_JYSR_CYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "餐饮收入-去年同比",
+            "code": "HOTEL_JYSR_CYSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "其他收入",
+        "code": "HOTEL_JYSR_QTSR",
+        "data": [
+          {
+            "name": "其他收入",
+            "code": "HOTEL_JYSR_QTSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "其他收入-增长率",
+            "code": "HOTEL_JYSR_QTSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "其他收入-去年同比",
+            "code": "HOTEL_JYSR_QTSR",
+            "unitName": "元",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

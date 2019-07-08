@@ -1,0 +1,54 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_1_JYFX",
+    "name": "经营分析",
+    "style": 1,
+    "url": "http://www.baidu.com",
+    "data": [
+      {
+        "name": "经营收入",
+        "code": "HOTEL_JYSR",
+        "unitName": "元",
+        "value": "1243545.00",
+        "zbValue": 0.50,
+        "monthHBValue": "0",
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "经营成本",
+        "code": "HOTEL_JYCB",
+        "unitName": "元",
+        "value": "220575.00",
+        "zbValue": 0.77,
+        "monthHBValue": "0",
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "EBITDA",
+        "code": "HOTEL_LR_EBITDA",
+        "unitName": "元",
+        "value": "1034471.00",
+        "zbValue": -0.44,
+        "monthHBValue": "0",
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      }
+    ]
+  }
+}

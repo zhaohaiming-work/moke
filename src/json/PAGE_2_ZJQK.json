@@ -1,0 +1,161 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_2_ZJQK",
+    "name": "租金情况",
+    "style": 5,
+    "url": null,
+    "data": [
+      {
+        "name": "租金缴纳",
+        "generalSheets": [
+          {
+            "name": "入住率",
+            "code": "HOTEL_ZJQK_LZL",
+            "unitName": "%",
+            "tag": null,
+            "value": "0.8985",
+            "zbValue": null,
+            "monthHBValue": null,
+            "yearTBValue": null,
+            "yearTQValue": null,
+            "yearSumValue": null,
+            "yearAvgValue": null,
+            "yearAvgHBValue": null,
+            "url": ""
+          },
+          {
+            "name": "平均房价",
+            "code": "HOTEL_ZJQK_PJFJ",
+            "unitName": "元/间",
+            "tag": null,
+            "value": "293.82",
+            "zbValue": null,
+            "monthHBValue": null,
+            "yearTBValue": null,
+            "yearTQValue": null,
+            "yearSumValue": null,
+            "yearAvgValue": null,
+            "yearAvgHBValue": null,
+            "url": ""
+          },
+          {
+            "name": "RevPAR",
+            "code": "HOTEL_ZJQK_RevPAR",
+            "unitName": "元/㎡/天",
+            "tag": null,
+            "value": "264.00",
+            "zbValue": null,
+            "monthHBValue": null,
+            "yearTBValue": null,
+            "yearTQValue": null,
+            "yearSumValue": null,
+            "yearAvgValue": null,
+            "yearAvgHBValue": null,
+            "url": ""
+          }
+        ],
+        "sixMonthSheets": [
+          {
+            "name": "入住率",
+            "code": "HOTEL_ZJQK_LZL",
+            "unitName": "%",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "0.8985"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "平均房价",
+            "code": "HOTEL_ZJQK_PJFJ",
+            "unitName": "元/间",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "293.82"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "name": "RevPAR",
+            "code": "HOTEL_ZJQK_RevPAR",
+            "unitName": "元/㎡/天",
+            "tag": null,
+            "monthItems": [
+              {
+                "yearMonth": "2019-11",
+                "value": "264.00"
+              },
+              {
+                "yearMonth": "2019-10",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-9",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-8",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-7",
+                "value": "0"
+              },
+              {
+                "yearMonth": "2019-6",
+                "value": "0"
+              }
+            ]
+          }
+        ]
+      }
+      
+    ]
+  }
+}

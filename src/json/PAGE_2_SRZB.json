@@ -1,0 +1,87 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": {
+    "panelNO": "PAGE_2_SRZB",
+    "name": "收入占比",
+    "style": 1,
+    "url": null,
+    "data": [
+      {
+        "name": "经营收入",
+        "code": "HOTEL_JYSR",
+        "unitName": "元",
+        "tag": "Total",
+        "value": "1243545.00",
+        "zbValue": null,
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "客房收入-直销收入",
+        "code": "HOTEL_JYSR_KFSR_ZXSR",
+        "unitName": "元",
+        "tag": null,
+        "value": "863052.00",
+        "zbValue": "0.70",
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "客房收入-OTA收入",
+        "code": "HOTEL_JYSR_KFSR_OTASR",
+        "unitName": "元",
+        "tag": null,
+        "value": "369880.00",
+        "zbValue": "0.30",
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "餐饮收入",
+        "code": "HOTEL_JYSR_CYSR",
+        "unitName": "元",
+        "tag": null,
+        "value": "10613.00",
+        "zbValue": "0.01",
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      },
+      {
+        "name": "其他收入",
+        "code": "HOTEL_JYSR_QTSR",
+        "unitName": "元",
+        "tag": null,
+        "value": "0.00",
+        "zbValue": "0.00",
+        "monthHBValue": null,
+        "yearTBValue": null,
+        "yearTQValue": null,
+        "yearSumValue": null,
+        "yearAvgValue": null,
+        "yearAvgHBValue": null,
+        "url": ""
+      }
+    ]
+  }
+}

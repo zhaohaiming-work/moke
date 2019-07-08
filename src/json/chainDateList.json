@@ -1,0 +1,14 @@
+{
+  "responseCode": "000",
+  "responseMsg": "成功",
+  "data": [
+      {
+          "period": "2018-09",
+          "periodStr": "2018年09月"
+      },
+      {
+          "period": "2018-08",
+          "periodStr": "2018年08月"
+      }
+  ]
+}
